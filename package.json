@@ -8,7 +8,7 @@
     "build:locales": "node ./generate_locales.js run",
     "build:dist": "./node_modules/.bin/babel src --out-dir dist",
     "build": "npm run build:locales & npm run build:dist",
-    "parcel:build": "parcel ./src/index.html"
+    "parcel:start": "parcel ./src/index.html --no-cache"
   },
   "keywords": [],
   "author": "",
