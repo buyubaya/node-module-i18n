@@ -1,0 +1,58 @@
+@import "../../../../../@nabstudio/uikit/variables.scss";
+
+.addCollaboratorContainer {
+  margin-bottom: 12px;
+}
+
+.addCollaboratorTable {
+  border-collapse: collapse;
+}
+
+.clickable {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.selectRoleLabel {
+  color: $cl-black54;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+}
+
+.iconDropdown {
+  vertical-align: middle;
+}
+
+.iconRemove {
+  margin-right: 14px;
+  color: $cl-black38;
+}
+
+.selectRoleLabelActive {
+  color: #1061ff;
+}
+
+.textCapitalize {
+  text-transform: capitalize;
+}
+
+.collaboratorDetail {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.collaboratorInfo {
+  padding-left: 8px;
+  padding-right: 8px;
+  flex: 1;
+}
+
+.collaboratorName {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: $cl-black;
+}

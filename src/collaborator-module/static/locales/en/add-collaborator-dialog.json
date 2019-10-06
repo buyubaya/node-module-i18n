@@ -1,0 +1,16 @@
+{
+  "detail-settings-add-collaborator-dialog-title": "Add collaborators",
+  "detail-settings-add-collaborator-dialog-subtitle": "Add people and assign them roles to work in this submission.",
+  "detail-settings-add-collaborator-dialog-select-placeholder": "Enter collaborator’s email...",
+  "detail-settings-add-collaborator-dialog-select-label": "Select",
+  "detail-settings-add-collaborator-dialog-action-cancel": "Cancel",
+  "detail-settings-add-collaborator-dialog-action-add": "Add",
+  "detail-settings-add-collaborator-table-to-be-added": "To be added",
+  "detail-settings-add-collaborator-table-roles-in-submission": "Roles in this submission",
+  "detail-settings-add-collaborator-table-select-role-label": "Select role",
+  "detail-settings-collaborator-role-submitter": "Submitter",
+  "detail-settings-collaborator-role-editor": "Editor",
+  "detail-settings-collaborator-role-manager": "Manager",
+  "add-collaborator-dialog-search-email-not-belong": "This email does not belong to any collaborator.",
+  "add-collaborator-dialog-search-email-existed": "This collaborator existed."
+}
